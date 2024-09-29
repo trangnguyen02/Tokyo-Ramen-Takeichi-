@@ -16,7 +16,7 @@ Ramen Business is seasonal, peaking during the winter months and slowing down in
 ## 3. Data
 - **Source**: The project was initiated by myself and is currently under consideration by the restaurant manager. I made use of employee and revenue data accessible at employee level
 including daily schedules scraped from an external website and revenue data written in English by store staff.
-- Data presented in accompanying dashboards were totally fabricated.
+- Data presented in accompanying dashboards are totally fabricated.
 
 ## 4. Results
 - Dynamic reports on sales and employee performance.
