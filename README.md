@@ -18,3 +18,6 @@ Ramen Business is seasonal, peaking during the winter months and slowing down in
 
 ## 4. Results
 - Dynamic reports on sales and employee performance.
+![Alt Text](Tokyo_Ramen_Report_24-pages_page-0001.jpg)
+
+  
